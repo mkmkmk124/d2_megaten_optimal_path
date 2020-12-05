@@ -103,11 +103,12 @@ FOOTER="""
 4. ページ上部に指定された悪魔への最適合体経路と総マグネタイト使用量が表示されます。
 
 ## Copyright
-[「Ｄ×２ * 真・女神転生リベレーション」](https://d2-megaten-l.sega.jp/)は
+* [「Ｄ×２ * 真・女神転生リベレーション」](https://d2-megaten-l.sega.jp/)は
 [株式会社アトラス](https://www.atlus.co.jp/)、
 [株式会社セガゲームス](https://sega-games.co.jp/) の著作物です。  
-悪魔データは[wim-lab](https://github.com/wim-lab/d2)から取得、改変しています。
-* 改変内容: csvファイルへの形式変更、悪魔の名称変更
+* 悪魔データは[wim-lab](https://github.com/wim-lab/d2)から取得、改変しています。
+    * 改変内容: csvファイルへの形式変更、悪魔の名称変更
+* ソースコードは[こちら](https://github.com/mkmkmk124/d2_megaten_optimal_path)
 """
 
 st.markdown(FOOTER)
