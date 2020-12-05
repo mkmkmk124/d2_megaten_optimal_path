@@ -50,7 +50,7 @@ rare_base_flags["★"] = st.sidebar.checkbox('★1悪魔(素体)', True)
 flagment_base_score_zero_devils = st.sidebar.multiselect(
     '断片召喚悪魔(素体)',
     ["マカミ","アピス","パワー","ミトラ"],
-    ["マカミ","アピス","パワー","ミトラ"]
+    []
     )
 
 aura2_50_devils = ["ティアマト", "セタンタ", "アラハバキ", "フォルネウス", "ライラ", "カマソッソ","ユニコーン","カハク"]
